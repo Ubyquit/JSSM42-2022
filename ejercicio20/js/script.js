@@ -1,5 +1,5 @@
 
-
+// Funciones con argumento
 
 
 function operacion(numero1, numero2) {

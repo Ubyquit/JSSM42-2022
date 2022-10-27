@@ -1,3 +1,4 @@
+// Funciones sin argumento
 function estado() {
 
   let estados = prompt("Ingresa tu estado de animo");

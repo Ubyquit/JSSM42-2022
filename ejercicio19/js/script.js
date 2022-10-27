@@ -1,3 +1,5 @@
+//Funciones por variable
+
 const estado = function () {
   let estados = prompt("Ingresa tu estado de animo");
 

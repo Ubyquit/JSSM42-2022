@@ -1,3 +1,4 @@
+// Funciones flecha
 
 const operacion = (numero1, numero2) => {
   let multiplicacion = numero1 * numero2;
