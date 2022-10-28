@@ -6,14 +6,16 @@ let arrayA = {
   nombre: "LUIS FERNANDO",
 };
 
+
+let imgP = arrayA.imgP;
+let imgF = arrayA.imgF;
 let apellidoP = arrayA["apellidoP"];
 let apellidoM = arrayA.apellidoM;
 let nombre = arrayA.nombre;
-let imgP = arrayA.imgP;
-let imgF = arrayA.imgF;
 
+
+document.getElementById("imgP").src = imgP;
+document.getElementById("imgF").src = imgF;
 document.getElementById("apellidoP").innerHTML = apellidoP;
 document.getElementById("apellidoM").innerHTML = apellidoM;
 document.getElementById("nombre").innerHTML = nombre;
-document.getElementById("imgP").src = imgP;
-document.getElementById("imgF").src = imgF;
