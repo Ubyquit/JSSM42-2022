@@ -1,9 +1,9 @@
 let arrayA = {
-  nombre: "LUIS FERNANDO",
-  apellidoP: "VILLAFAÑA",
-  apellidoM: "REJON",
   imgP: "assets/img/yo.jpg",
   imgF: "assets/img/firma.png",
+  apellidoP: "VILLAFAÑA",
+  apellidoM: "REJON",
+  nombre: "LUIS FERNANDO",
 };
 
 let apellidoP = arrayA["apellidoP"];
