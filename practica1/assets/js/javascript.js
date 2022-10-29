@@ -18,4 +18,4 @@ document.getElementById("imgP").src = imgP;
 document.getElementById("imgF").src = imgF;
 document.getElementById("apellidoP").innerHTML = apellidoP;
 document.getElementById("apellidoM").innerHTML = apellidoM;
-document.getElementById("nombre").innerHTML = nombre;
+document.getElementById("nombre").innerHTML = nombre; 
